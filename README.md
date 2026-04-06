@@ -259,7 +259,7 @@ LogVar 弹幕 API 服务器
 ### 一键部署
 点击以下按钮即可将项目快速部署到 Netlify：
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/huangxd-/danmu_api"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/wudangshanus/danmu_api"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
 
 > 默认访问domain：https://{你的部署项目名}.netlify.app
 > > 注意：TOKEN为默认87654321的情况下，可不带{TOKEN}请求，如`https://{你的部署项目名}.netlify.app/api/v2/search/anime?keyword=子夜归`
